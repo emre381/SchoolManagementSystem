@@ -42,14 +42,14 @@ When you run the program, you will be prompted to choose your role: either `teac
 
 3. Run the Python script:
    ```bash
-   python school_management.py
+   python app.py
    ```
 
 ## Usage
 
 1. **Run the Script**: Start the program by running the Python script.
    ```bash
-   python school_management.py
+   python app.py
    ```
 
 2. **Select Role**: You will be prompted to enter your role as either a `teacher` or `director`.
